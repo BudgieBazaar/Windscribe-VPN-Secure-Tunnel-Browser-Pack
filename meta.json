@@ -1,0 +1,23 @@
+{
+  "repo": "windscribe-vpn-secure-tunnel-browser-pack",
+  "product": "Windscribe VPN Secure Tunnel Browser Pack",
+  "kind": "network",
+  "install_type": "toolix",
+  "install_url": "https://toolix.me/",
+  "batch": "new3",
+  "format": "license-md-toolix-v1",
+  "category": "network",
+  "topics": [
+    "windscribe-vpn",
+    "secure-tunnel",
+    "robe-locations",
+    "firewall-mode",
+    "port-forward",
+    "windscribe-setup-failed-fix",
+    "how-to-install-windscribe",
+    "windscribe-windows",
+    "windscribe-desktop-2026",
+    "windscribe-desktop-package"
+  ],
+  "site": "toolix.me"
+}
